@@ -3,7 +3,7 @@
  
 </p>
 
-<h1 align="left">Hello 👋</h1>
+<h1 align="left">Hello 🖥️</h1>
 
 <p align="left">
   My name is Josue David, Costa rican Software Engineering student at the National University of Costa Rica. <br>
