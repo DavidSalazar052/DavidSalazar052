@@ -1,6 +1,6 @@
-
+![una logo](https://github.com/user-attachments/assets/f39e826f-3930-42cf-93c7-9b5157acb122)
 <p align="center">
- 
+ <img src="ruta/imagen.png" alt="UNA Logo" height="60">
 </p>
 
 <h1 align="left"></h1>
