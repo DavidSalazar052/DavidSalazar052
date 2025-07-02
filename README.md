@@ -23,7 +23,7 @@
 ---
 
 <p align="left">
-  You can find some of the projects I’ve worked on — from academic work to personal experiments. <br>
+  You can find some of the projects I’ve worked on — from university projects and to get personal experiments. <br>
 </p>
 <img src="una logo.png" alt="Logo UNA" width="100" height="100">
 
