@@ -33,10 +33,4 @@
 
 </p>
 
-<p align="left">
-  Proud student at:
-</p>
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/EscudoUNA.png" height="60" alt="Universidad Nacional de Costa Rica logo" />
-</p>
