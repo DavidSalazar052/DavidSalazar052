@@ -6,7 +6,7 @@
 <h1 align="left">Hello 🖥️</h1>
 
 <p align="left">
-  My name is Josue David, Costa rican Software Engineering student at the National University of Costa Rica. <br>
+  My name is Josue David, Costa rican Software Engineering student at the National University of Costa  <br><br>
   I'm passionate about technology, problem-solving, and building efficient systems, meaningful software. <br>
   I enjoy learning new tools and frameworks, and I’m always looking for opportunities to grow as a developer. <br>
   Whether it's backend logic or frontend design, I love turning ideas into reality through code.
