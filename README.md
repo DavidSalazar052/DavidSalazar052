@@ -24,8 +24,5 @@
 
 <p align="left">
   You can find some of the projects I’ve worked on — from academic work to personal experiments. <br>
-
 </p>
 
-
-![una logo](https://github.com/user-attachments/assets/f39e826f-3930-42cf-93c7-9b5157acb122)
