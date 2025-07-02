@@ -1,6 +1,6 @@
 <!-- Banner image at the top (replace URL with your own image if you'd like) -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+profile" alt="Banner" />
+ 
 </p>
 
 <h1 align="left">Hello 👋</h1>
