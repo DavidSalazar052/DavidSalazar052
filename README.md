@@ -24,4 +24,6 @@
   You can find some of the projects I’ve worked on to get more knowleged in this world. <br>
 </p>
 <img src="una logo.png" alt="Logo UNA" width="100" height="100">
+And if you want to see my process coding in leetcode in my profile 
+<a href="https://leetcode.com/progress/">Josue Leetcode list</a>
 
