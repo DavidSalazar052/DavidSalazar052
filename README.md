@@ -1,5 +1,7 @@
-# ¡Hola Mi nombre es Josue! Soy estudiante de Ingeniería en Sistemas
-### 💻 Habilidades Técnicas
+# ¡Hola Mi nombre es Josue! Soy estudiante Universitario de Ingeniería en Sistemas 
+
+|Universidad Nacional de Costa Rica |
+### Habilidades Técnicas 
 
 | Área | Tecnologías |
 | :--- | :--- |
