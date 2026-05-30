@@ -1,4 +1,4 @@
-# ¡Hola Mi nombre es Josue! Soy estudiante Universitario de Ingeniería en Sistemas 
+# ¡Hola Mi nombre es Josue! Soy estudiante de Ingeniería en Sistemas 
 
 ## Universidad Nacional de Costa Rica 
 
